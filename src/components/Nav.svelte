@@ -4,18 +4,10 @@
     const { page, session } = stores();
 </script>
 
-<nav>
+<nav class="shadow-lg ">
     <ul>
-        <li><a href="/">Oferta<b class="text-gradient-to-r from-purple-400 via-pink-500 to-red-500"> Web</b></a></li>
+        <li><a href="/"><b class="mr-3 rounded-2xl ring ring-purple-600 ring-offset-4 ring-offset-purple-100"> Oferta</b>Web</a></li>
 
-      {#if $session.token}
-            <li><a class:active="{$page.path === '/profile'}"  href="profile">perfil</a></li>
-        {:else}
-            <li><a class:active="{$page.path === '/about'}" href="about">about</a></li>
-            <li><a class:active="{$page.path === '/login'}" href="login">login</a></li>
-            <li><a class:active="{$page.path === '/signup'}" href="signup">register</a></li>
-        
-        {/if}
     </ul>
 </nav>
 

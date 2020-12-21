@@ -1,0 +1,6 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+h1.svelte-35cw6v,figure.svelte-35cw6v,p.svelte-35cw6v{text-align:center;margin:0 auto}h1.svelte-35cw6v{font-size:2.8em;font-weight:400;margin:0 0 0.5em 0}figure.svelte-35cw6v{margin:0 0 1em 0}img.svelte-35cw6v{width:100%;max-width:400px;margin:0 0 1em 0}p.svelte-35cw6v{margin:1em auto;padding-bottom:1em}@media(min-width: 480px){h1.svelte-35cw6v{font-size:4em}}

@@ -7,7 +7,7 @@
          Tu página web hoy <br><span class="underline">POR SOLO</span> 
             <br><span class="text-green-500">$ 500.00 </span>/mes
         </h1>
-        <p class=" text-blue-500 text-center">*Oferta válida por 48 hs</p>
+        <p class=" text-red-500 text-center">*Oferta válida por 48 hs</p>
         <div class="grid justify-center mt-8 mb-8">  
         <button class="  w-64  mt-4 mb-4  ring ring-purple-600 ring-offset-4 ring-offset-purple-100 hover:text-gray-50 transition duration-500 ease-in-out bg-gradient-to-r from-pink-500 to-yellow-500 transform hover:-translate-y-1 hover:scale-110 font-bold py-2 px-4 rounded-xl m-2">
             Comprar

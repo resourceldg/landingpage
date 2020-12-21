@@ -270,7 +270,7 @@ const Hero = create_ssr_component(($$result, $$props, $$bindings, $$slots) => {
 	return `<div class="${" gap-4 ml-8 mr-8 mb-10 mt-4 grid-cols-1 rounded-bl shadow-lg bg-gray-100"}"><div class="${" mb-8"}"><h1 class="${"font-sans-Roboto font-bold text-center text-purple-500 text-4xl md:text-6xl mt-4 "}">Tu página web hoy <br><span class="${"underline"}">POR SOLO</span> 
             <br><span class="${"text-green-500"}">$ 500.00 </span>/mes
         </h1>
-        <p class="${" text-blue-500 text-center"}">*Oferta válida por 48 hs</p>
+        <p class="${" text-red-500 text-center"}">*Oferta válida por 48 hs</p>
         <div class="${"grid justify-center mt-8 mb-8"}"><button class="${"  w-64  mt-4 mb-4  ring ring-purple-600 ring-offset-4 ring-offset-purple-100 hover:text-gray-50 transition duration-500 ease-in-out bg-gradient-to-r from-pink-500 to-yellow-500 transform hover:-translate-y-1 hover:scale-110 font-bold py-2 px-4 rounded-xl m-2"}">Comprar
         </button></div></div></div>`;
 });
@@ -279,16 +279,16 @@ const Hero = create_ssr_component(($$result, $$props, $$bindings, $$slots) => {
 
 const css = {
 	code: ".wsp.svelte-vnq8fq{transition:0.3s ease-out}.wsp.svelte-vnq8fq:hover{transform:rotate(360deg)}",
-	map: "{\"version\":3,\"file\":\"Whatsapp.svelte\",\"sources\":[\"Whatsapp.svelte\"],\"sourcesContent\":[\"<script>\\n    import Hero from \\\"./Hero.svelte\\\";\\n</script>\\n\\n<style>\\n    .wsp {\\n        transition: 0.3s ease-out;\\n    }\\n    .wsp:hover {\\n        transform: rotate(360deg);\\n    }\\n</style>\\n\\n<div class=\\\"grid md:grid-cols-3 bg-green-200 gap-4 rounded-bl place-items-center m-4\\\">\\n    <div class= \\\"p-4 col-span-2\\\">\\n        <h2>\\n            <span class=\\\"font-bold\\\">Hey emprendedor!!!</span>\\n            <br />Con esta Web tendrás email corporativo, Whatsapp integrado, si\\n            estás buscando una tienda en linea busca abajo el plan que se mejor se\\n            adapte a tus necesidades o sino hacé clíck en el logo y escibirnos...\\n        </h2>\\n    </div>\\n    <div class=\\\"grid col-start-3 col-span-1 \\\">\\n        <img class=\\\"wsp \\\" src=\\\"wsp2.png\\\" alt=\\\"logo whatsapp\\\" />\\n    </div>\\n</div>\"],\"names\":[],\"mappings\":\"AAKI,IAAI,cAAC,CAAC,AACF,UAAU,CAAE,IAAI,CAAC,QAAQ,AAC7B,CAAC,AACD,kBAAI,MAAM,AAAC,CAAC,AACR,SAAS,CAAE,OAAO,MAAM,CAAC,AAC7B,CAAC\"}"
+	map: "{\"version\":3,\"file\":\"Whatsapp.svelte\",\"sources\":[\"Whatsapp.svelte\"],\"sourcesContent\":[\"<script>\\n    import Hero from \\\"./Hero.svelte\\\";\\n</script>\\n\\n<style>\\n    .wsp {\\n        transition: 0.3s ease-out;\\n    }\\n    .wsp:hover {\\n        transform: rotate(360deg);\\n    }\\n</style>\\n\\n<div class=\\\"grid md:grid-cols-3 bg-green-200 gap-4 rounded-bl place-items-center m-4 rounded-3xl\\\">\\n    <div class= \\\"p-4 col-span-2\\\">\\n        <h2>\\n            <span class=\\\"font-bold\\\">Hey emprendedor!!!</span>\\n            <br />Con esta Web tendrás email corporativo, Whatsapp integrado, si\\n            estás buscando una tienda en linea revisá debajo el plan que mejor se\\n            adapte a tus necesidades o hacé clíck en el logo y escibirnos...\\n        </h2>\\n    </div>\\n    <div class=\\\"grid col-start-3 col-span-1 \\\">\\n        <img class=\\\"wsp \\\" src=\\\"wsp2.png\\\" alt=\\\"logo whatsapp\\\" />\\n    </div>\\n</div>\"],\"names\":[],\"mappings\":\"AAKI,IAAI,cAAC,CAAC,AACF,UAAU,CAAE,IAAI,CAAC,QAAQ,AAC7B,CAAC,AACD,kBAAI,MAAM,AAAC,CAAC,AACR,SAAS,CAAE,OAAO,MAAM,CAAC,AAC7B,CAAC\"}"
 };
 
 const Whatsapp = create_ssr_component(($$result, $$props, $$bindings, $$slots) => {
 	$$result.css.add(css);
 
-	return `<div class="${"grid md:grid-cols-3 bg-green-200 gap-4 rounded-bl place-items-center m-4"}"><div class="${"p-4 col-span-2"}"><h2><span class="${"font-bold"}">Hey emprendedor!!!</span>
+	return `<div class="${"grid md:grid-cols-3 bg-green-200 gap-4 rounded-bl place-items-center m-4 rounded-3xl"}"><div class="${"p-4 col-span-2"}"><h2><span class="${"font-bold"}">Hey emprendedor!!!</span>
             <br>Con esta Web tendrás email corporativo, Whatsapp integrado, si
-            estás buscando una tienda en linea busca abajo el plan que se mejor se
-            adapte a tus necesidades o sino hacé clíck en el logo y escibirnos...
+            estás buscando una tienda en linea revisá debajo el plan que mejor se
+            adapte a tus necesidades o hacé clíck en el logo y escibirnos...
         </h2></div>
     <div class="${"grid col-start-3 col-span-1 "}"><img class="${"wsp  svelte-vnq8fq"}" src="${"wsp2.png"}" alt="${"logo whatsapp"}"></div></div>`;
 });

@@ -2,6 +2,7 @@
 	import Cards from './../components/Cards.svelte';
     import Whatsapp from "../components/Whatsapp.svelte";
     import Hero from "./../components/Hero.svelte";
+import Features from '../components/Features.svelte';
 </script>
 
 
@@ -11,5 +12,6 @@
 </svelte:head>
 
 <Hero />
+<Features />
 <Whatsapp />
 <Cards />

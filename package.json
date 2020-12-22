@@ -1,6 +1,6 @@
 {
-  "name": "a-minimal-blog-starter",
-  "description": "a mininmal blog starter built with strapi and sapper",
+  "name": "Ofertaweb",
+  "description": "Una landing page de tienda online y página web",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",

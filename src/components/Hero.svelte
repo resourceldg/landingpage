@@ -3,9 +3,9 @@
     <div class=" mb-8">
         <h1
             class="font-sans-Roboto font-bold text-center text-purple-500 text-4xl md:text-6xl mt-4 ">
-            Tu página web <br><span class="underline text-blue-500">POFESIONAL</span> hoy a 
-            <br /><span class="underline"> SOLO</span>
-            <br /><span class="text-green-500">$ 3.500 </span>
+            Creá tu tienda <br><span class="text-blue-500">on line</span> hoy por
+            <br /><span class="underline"> solo </span>
+            <br /><span class="text-green-500">$ 5000 </span>
             <br />
             <span class="underline font-bold"> Por única vez</span>
         </h1>

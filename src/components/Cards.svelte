@@ -4,7 +4,7 @@
 </script>
 
 <div
-    class="grid md:grid-cols-3 gap-4 rounded-bl place-items-center m-4 shadow-lg mt-20 mb-36">
+    class="grid md:grid-cols-3 gap-2 rounded-bl place-items-center m-2 shadow-lg mt-20 mb-36">
     <Card  >
         <span slot="cardImage"> <img src="small.svg" alt="caja" width="70" height="70" /></span>
         <span slot="cardTitle">Tienda S</span>

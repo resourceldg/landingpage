@@ -1,8 +1,8 @@
 <script>
-	import Cards from './../components/Cards.svelte';
-    import Whatsapp from "../components/Whatsapp.svelte";
-    import Hero from "./../components/Hero.svelte";
-import Features from '../components/Features.svelte';
+	import Cards from '../components/tienda/Cards.svelte';
+    import Whatsapp from "../components/tienda/Whatsapp.svelte";
+    import Hero from "../components/tienda/Hero.svelte";
+import Features from '../components/tienda/Features.svelte';
 </script>
 
 

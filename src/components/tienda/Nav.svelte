@@ -5,13 +5,15 @@
 </script>
 
 <nav class="shadow-lg ">
-    <ul>
-        <li><a href="/"><b class="mr-3 rounded-2xl ring ring-purple-600 ring-offset-4 ring-offset-purple-100"> Oferta</b>Web</a></li>
-
+    <ul class="grid text-xs grid-cols-2 space-items-center">
+        <li ><a href="/"  ><b >Oferta</b> WEB</a></li>
+       <!--  <li class=" hover:bg-gray-200 text-blue-500 focus-within:text-green-600"><a href="/carta"  ><b>Menú digital</b></a></li>
+ -->
     </ul>
 </nav>
 
 <style>
+    
     nav {
         border-bottom: 1px solid rgba(21, 10, 34, 0.1);
         font-weight: 400;
@@ -33,6 +35,9 @@
     li {
         display: block;
         float: left;
+    }
+    li:active{
+        color:aqua;
     }
 
     a {

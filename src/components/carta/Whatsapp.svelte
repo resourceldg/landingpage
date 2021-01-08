@@ -12,12 +12,11 @@
     class="grid md:grid-cols-3 bg-green-200 gap-4 rounded-bl place-items-center m-4 rounded-3xl">
     <div class="p-4 col-span-2">
         <h3 class="text-sm text-gray-700">
-            <span class="font-bold text-2xl  ">No pierdas ventas!!!</span>
-            <br />Ya podés tener tu menú digital o tu catálogo de productos para 
-            pegar por toda tu tienda mientras estas atendiendo y además compartirla por cualquier medio digital. 
-            <span class="font-bold">Vendé </span>
-            <span class="font-bold ">COMO UN PROFESIONAL </span> si tenés dudas hacé click en el
-            logo y escibirnos...
+            <span class="font-bold text-2xl  ">Qué estás esperando?</span>
+            <br />Ya podés tener tu catálogo de serivicos o productos listo para 
+            pegar por toda tu tienda y además compartirla por cualquier medio digital. 
+            <span class="font-bold">Vendé como un profesional</span> <br>
+            Si tenés dudas hacé click en el logo y escibinos...
         </h3>
     </div>
     <div class="grid col-start-3  mr-2">

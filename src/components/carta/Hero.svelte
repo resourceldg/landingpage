@@ -6,7 +6,8 @@
                 <slot name="heroTitle"> Creamos tu menú digital y/o catálogo de productos con
                  <span class="text-blue-500">tecnología QR </span>
                  <span class="underline"> por solo </span>
-                 <br/><span class="text-green-500">$ 2500 </span>
+                 <br/><span class="text-green-500">$ 5000 </span>
+                 <br> <span class="text-blue-600">SIN COSTO MENSUAL </span>
              </slot>
              </h1>
         </div>

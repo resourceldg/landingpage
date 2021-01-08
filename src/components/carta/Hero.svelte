@@ -17,10 +17,10 @@
         
     </div>
         <div class="grid justify-center mt-8 mb-8">
-            <button class="  w-64  mt-4 mb-4  ring ring-purple-600 ring-offset-4 ring-offset-purple-100 hover:text-gray-50 transition duration-500 ease-in-out bg-gradient-to-r from-pink-500 to-yellow-500 transform hover:-translate-y-1 hover:scale-110 font-bold py-2 px-4 rounded-xl m-2">
+            <a href="https://mpago.la/1U99Kqe"><button class="  w-64  mt-4 mb-4  ring ring-purple-600 ring-offset-4 ring-offset-purple-100 hover:text-gray-50 transition duration-500 ease-in-out bg-gradient-to-r from-pink-500 to-yellow-500 transform hover:-translate-y-1 hover:scale-110 font-bold py-2 px-4 rounded-xl m-2">
                 <slot name="heroButtom"> Comprar</slot>
                
-            </button>
+            </button></a>
         </div>
         <div>
             <p class=" text-blue-500 font-bold text-center mt-4">

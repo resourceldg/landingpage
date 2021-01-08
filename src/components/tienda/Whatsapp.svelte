@@ -21,6 +21,7 @@
         </h3>
     </div>
     <div class="grid col-start-3  mr-2">
-        <img class="wsp object-fill" src="wsp2.png" alt="logo whatsapp" />
+        <a href="https://wa.link/2wlo0v"> <img class="wsp object-fill" src="wsp2.png" alt="logo whatsapp" /></a>
+        
     </div>
 </div>

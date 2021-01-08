@@ -6,7 +6,7 @@
 
 <nav class="shadow-lg ">
     <ul>
-        <li><a href="/carta"><b class="mr-3 rounded-2xl ring ring-purple-600 ring-offset-4 ring-offset-purple-100"> Oferta</b>Web</a></li>
+        <li><a href="/"><b class="mr-3 rounded-2xl ring ring-purple-600 ring-offset-4 ring-offset-purple-100"> Oferta</b>Web</a></li>
 
     </ul>
 </nav>

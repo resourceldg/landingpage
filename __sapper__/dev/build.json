@@ -2,45 +2,45 @@
   "bundler": "rollup",
   "shimport": "1.0.1",
   "assets": {
-    "main": "client.464b5968.js"
+    "main": "client.8572a1ec.js"
   },
   "css": {
     "main": "main.1068686618.css",
     "chunks": {
       "index.svelte": [
-        "client.464b5968.css",
-        "Whatsapp.066057bc.css"
+        "client.8572a1ec.css",
+        "Whatsapp.664bbe6e.css"
       ],
       "terminos-y-condiciones.svelte": [
-        "client.464b5968.css"
+        "client.8572a1ec.css"
       ],
       "articles/index.svelte": [
-        "index.0a9d1f0a.css",
-        "client.464b5968.css"
+        "index.54545ff1.css",
+        "client.8572a1ec.css"
       ],
       "articles/[slug].svelte": [
-        "[slug].86719e09.css",
-        "client.464b5968.css"
+        "[slug].5edf6289.css",
+        "client.8572a1ec.css"
       ],
       "gracias.svelte": [
-        "client.464b5968.css",
-        "Whatsapp.066057bc.css"
+        "client.8572a1ec.css",
+        "Whatsapp.664bbe6e.css"
       ],
       "profile.svelte": [
-        "client.464b5968.css"
+        "client.8572a1ec.css"
       ],
       "signup.svelte": [
-        "client.464b5968.css"
+        "client.8572a1ec.css"
       ],
       "about.svelte": [
-        "client.464b5968.css"
+        "client.8572a1ec.css"
       ],
       "carta.svelte": [
-        "carta.54e0e7ed.css",
-        "client.464b5968.css"
+        "carta.dbd987c1.css",
+        "client.8572a1ec.css"
       ],
       "login.svelte": [
-        "client.464b5968.css"
+        "client.8572a1ec.css"
       ]
     }
   }

@@ -7,8 +7,7 @@
 <nav class="shadow-lg ">
     <ul class="grid text-xs grid-cols-2 space-items-center">
         <li ><a href="/"  ><b >Oferta</b> WEB</a></li>
-       <!--  <li class=" hover:bg-gray-200 text-blue-500 focus-within:text-green-600"><a href="/carta"  ><b>Menú digital</b></a></li>
- -->
+       <li class=" invisible"><a href="/gracias"  ><b>gracias</b></a></li>
     </ul>
 </nav>
 

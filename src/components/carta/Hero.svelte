@@ -6,8 +6,8 @@
                 <slot name="heroTitle"> Creamos tu menú digital y/o catálogo de productos con
                  <span class="text-blue-500">tecnología QR </span>
                  <span class="underline"> por solo </span>
-                 <br/><span class="text-green-500">$ 5000 </span>
-                 <br> <span class="text-blue-600">SIN COSTO MENSUAL </span>
+                 <br/><span class="text-green-500">$ 5000*</span>
+                 
              </slot>
              </h1>
         </div>
@@ -23,10 +23,11 @@
             </button></a>
         </div>
         <div>
-            <p class=" text-blue-500 font-bold text-center mt-4">
-                <slot name="heroPharagraph">*Oferta válida por 48 hs.</slot>
+            <p class=" text-blue-500 text-sm text-center mt-4">
+                <slot name="heroPharagraph">*Servicio rige por un año a partir de la compra. Oferta válida sólo en Argentina</slot>
                 
             </p>
+            <a  href="/terminos-y-condiciones"> <p class="text-green-400 font-bold text-center"> Términos y condiciones </p></a>
         </div>
        
         
